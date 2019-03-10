@@ -135,7 +135,7 @@
       "metadata": {
         "description": "The location of resources such as templates and DSC modules that the script depends on.Leave at default."
       },
-      "defaultValue": "https://github.com/nem1010/LabTask/blob/master/Environments/AD-Forest-Create"
+      "defaultValue": "https://raw.githubusercontent.com/nem1010/LabTask/master/Environments/AD-Forest-Create"
     },
     "_artifactsLocationSasToken": {
       "type": "securestring",
