@@ -15,7 +15,7 @@
       "value": "child"
     },
     "_artifactsLocation": {
-      "value": "https://github.com/nem1010/LabTask/blob/master/Environments/AD-Forest-Create"
+      "value": "https://raw.githubusercontent.com/nem1010/LabTask/master/Environments/AD-Forest-Create"
     }
   }
 }
