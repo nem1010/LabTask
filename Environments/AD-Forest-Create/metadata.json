@@ -1,6 +1,6 @@
 {
   "itemDisplayName":"Active Directory Forest Environment",
-  "description": "This template creates a new Active Directory forest, with an optional subdomain. It creates one DC per domain. The network configuration is highly configurable, making it suitable to fit into an existing environment. The VMs use managed disks and have no dependency on storage accounts. The Operating System used is Windows Server 2016. This template makes use of nested templates, Powershell DSC, and other advanced concepts.",
+  "description": "This template creates a new Active Directory forest, with an optional subdomain. It creates one DC per domain. The network configuration is highly configurable, making it suitable to fit into an existing environment. The VMs use managed disks. The Operating System used is Windows Server 2016. This template makes use of nested templates, Powershell DSC, and other advanced concepts.",
   "summary": "Create a new Active Directory forest with an optional subdomain. One DC per domain.",
   "githubUsername": "nem1010",
   "dateUpdated": "2019-03-09"
