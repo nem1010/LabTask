@@ -63,7 +63,7 @@
       "metadata": {
         "description": "The size and type of the VM. *_DS* or *s types support Premium Disks."
       },
-      "defaultValue": "Standard_DS1_v2"
+      "defaultValue": "Standard_DS3_v2"
     },
     "diskType": {
       "type": "string",
